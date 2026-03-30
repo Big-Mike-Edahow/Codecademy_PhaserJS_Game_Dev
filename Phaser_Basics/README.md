@@ -1,1 +1,1 @@
-# Source code from my Codecademy Phaser JavaScript Course
+# PhaserJS Basics
