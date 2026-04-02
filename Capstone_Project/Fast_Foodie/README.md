@@ -1,1 +1,1 @@
-// PhaserJS Fast Foodie.
+# PhaserJS Fast Foodie.
