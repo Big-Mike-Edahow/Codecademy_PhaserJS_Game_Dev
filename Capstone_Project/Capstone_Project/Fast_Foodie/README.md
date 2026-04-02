@@ -1,1 +1,0 @@
-// PhaserJS Fast Foodie.
